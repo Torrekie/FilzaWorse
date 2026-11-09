@@ -1,0 +1,4 @@
+"scan.loading" = "Scanning supported containers… results may be incomplete";
+"scan.error" = "Container scan failed: %@";
+"scan.partial" = "Partial scan results: %lu item(s)";
+"scan.none" = "No supported containers found";

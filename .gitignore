@@ -1,0 +1,11 @@
+# Local build products
+build/
+*.o
+*.dylib
+*.ipa
+*.app/
+*.appex/
+
+# Apple and editor metadata
+.DS_Store
+xcuserdata/
